@@ -3,7 +3,7 @@
 
 meu nome é mariana 
 
--estou estudando no alura
+-estou estudando no [alura](http://www.alura.com.br)
 
 -estou completando os cursos
 
