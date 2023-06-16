@@ -4,7 +4,9 @@
 meu nome é mariana 
 
 -estou estudando no alura
+
 -estou completando os cursos
+
 -ultilizo esse espaço para a organização dos meus projetos desenvolvidos
 
 **entre em contato comigo** 📫
